@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a frontend-focused MERN stack developer with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy working with React and JavaScript, solving technical challenges, and continuously exploring new technologies, tools, and development practices to improve my skills.</p>
+<p data-importer="text" align="left">I'm a frontend developer with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy working with React and JavaScript, solving technical challenges, and continuously exploring new technologies, tools, and development practices to improve my skills.</p>
 
 ###
 
